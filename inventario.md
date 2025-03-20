@@ -5,3 +5,5 @@ componenti
 
 schede_madri
 processori
+
+periferiche
