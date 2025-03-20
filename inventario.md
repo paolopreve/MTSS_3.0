@@ -7,3 +7,5 @@ schede_madri
 processori
 
 periferiche
+
+tastiere
