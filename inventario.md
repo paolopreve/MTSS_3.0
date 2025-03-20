@@ -9,3 +9,4 @@ processori
 periferiche
 
 tastiere
+mouse
